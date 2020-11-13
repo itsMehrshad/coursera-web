@@ -1,1 +1,48 @@
 
+/** This is my ordinary styles **/
+	/** Font Face **/
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+body{
+
+  background-color:#778899;
+
+}
+
+.col-sm {
+
+  color: red;
+}
+
+.row {
+
+  background-color:	#D3D3D3;
+  padding: 2%;
+  margin: 7px;
+  font-family: Modak;
+  border-radius: 5px;
+  text-shadow: tomato;
+  opacity: inherit;
+  
+}
+
+.headering {
+ font-family: Pacifico;
+ font-size: x-large;
+ text-transform:uppercase;
+ padding: 6px;
+
+}
+h1{
+
+  font-family: Fredok;
+  text-shadow: azure;
+  text-decoration: khaki;
+  text-transform:uppercase;
+  
+  
+}
+
